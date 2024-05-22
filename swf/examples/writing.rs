@@ -1,4 +1,4 @@
-use swf::*;
+use hydroper_swf::*;
 
 fn main() {
     let header = Header {
@@ -24,5 +24,5 @@ fn main() {
     ];
     let file = std::fs::File::create("tests/swfs/SimpleRedBackground.swf").unwrap();
     let writer = std::io::BufWriter::new(file);
-    swf::write_swf(&header, &tags, writer).unwrap();
+    hydroper_swf::write_swf(&header, &tags, writer).unwrap();
 }
