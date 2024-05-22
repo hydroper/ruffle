@@ -1,3 +1,0 @@
-xml.namespace(): 
-ns.prefix: 
-ns.uri: 

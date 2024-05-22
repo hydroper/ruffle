@@ -1,5 +1,0 @@
-num_frames = 1
-
-[approximations]
-# TODO: Discrepancy in float formatting.
-epsilon = 0.0

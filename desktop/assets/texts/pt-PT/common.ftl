@@ -1,2 +1,0 @@
-start = Iniciar
-browse = Explorar

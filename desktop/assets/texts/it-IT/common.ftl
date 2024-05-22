@@ -1,2 +1,0 @@
-start = Inizia
-browse = Sfoglia
