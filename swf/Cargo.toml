@@ -1,5 +1,5 @@
 [package]
-name = "swf"
+name = "hydroper_swf"
 version = "0.2.0"
 description = "Read and write the Adobe Flash SWF file format."
 authors.workspace = true
